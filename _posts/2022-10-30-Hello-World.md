@@ -5,7 +5,7 @@ title: Am I doing this right?
 
 Below should have a previous writing assignment (No-Digital Day) along with an unrelated image:
 
-![3D Render. Unrelated to post.]({{ site.baseurl }}[/images/coin1.12post.png])
+![3D Render. Unrelated to post.]({{ site.baseurl }}/images/coin1-12post.png)
 
 
 
