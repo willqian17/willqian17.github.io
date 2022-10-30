@@ -3,7 +3,7 @@ layout: post
 title: Am I doing this right?
 ---
 
-Below should have a previous writing assignment along with an unrelated image:
+Below should have a previous writing assignment (No-Digital Day) along with an unrelated image:
 
 ![_config.yml]({{ site.baseurl }}[/images/config.png](https://cdn.discordapp.com/attachments/484443100861956096/1033888741397385266/unknown.png))
 
