@@ -6,10 +6,13 @@ permalink: /about/
 
 A second-year mechanical engineering major who doesn't know what an engineering is.
 
-### More Information
+### No More Information
 
-Nope//
+- Gamer
+- Has a dog
+- Very honest
+- Doesn't own a dog
 
-### Contact me
+### Please Don't Contact me
 
 [qian.w@northeastern.edu](mailto:qian.w@northeastern.edu)
