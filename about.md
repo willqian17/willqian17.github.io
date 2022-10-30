@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A second-year mechanical engineering major who doesn't know what an engineering is.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Nope//
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[qian.w@northeastern.edu](mailto:qian.w@northeastern.edu)
