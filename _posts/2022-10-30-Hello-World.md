@@ -5,8 +5,7 @@ title: Am I doing this right?
 
 Below should have a previous writing assignment (No-Digital Day) along with an unrelated image:
 
-![_config.yml]({{ site.baseurl }}[/images/config.png](https://cdn.discordapp.com/attachments/484443100861956096/1033888741397385266/unknown.png))
-
+![3D Render. Unrelated to post.]({{ site.baseurl }}[/images/coin1.12post.png])
 
 
 
