@@ -5,7 +5,7 @@ title: No Digital Day
 
 How would modern day tasks hold up against the technologies of the past? Or, is it the other way around?
 
-![3D Render. Unrelated to post.]({{ site.baseurl }}/images/traffic.png)
+![3D Render.]({{ site.baseurl }}/images/traffic.png)
 
 
 
