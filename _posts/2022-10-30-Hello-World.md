@@ -5,11 +5,9 @@ title: No Digital Day
 
 How would modern day tasks hold up against the technologies of the past? Or, is it the other way around?
 
-![3D Render. Unrelated to post.]({{ site.baseurl }}/images/coin1-12post.png)
+![3D Render. Unrelated to post.]({{ site.baseurl }}/images/traffic.png)
 
 
-
-**No-Digital Day**
 
 Following the 2020 Pandemic, schools and workplaces transitioned to a fully digital setting, relying 100% on technology to recreate workplace and classroom environments. Modern society has become increasingly dependent on technology for communication and productivity. Being tasked with sacrificing some of these components would be a major challenge. No, I did not succeed.
 
