@@ -1,19 +1,19 @@
 ---
 layout: post
-title: Am I doing this right?
+title: No Digital Day
 ---
 
-Below should have a previous writing assignment (No-Digital Day) along with an unrelated image:
+How would modern day tasks hold up against the technologies of the past? Or, is it the other way around?
 
 ![3D Render. Unrelated to post.]({{ site.baseurl }}/images/coin1-12post.png)
 
 
 
-No-Digital Day
+**No-Digital Day**
 
-Technology has been advancing exponentially over the past few centuries. With an outstanding majority of developments occurring within the past two decades, modern technology has become more ingrained in our society. Following the 2020 Pandemic, schools and workplaces transitioned to a fully digital setting, relying 100% on technology to recreate workplace and classroom environments. Modern society has become increasingly dependent on technology for communication and productivity. Being tasked with sacrificing some of these components would be a major challenge. I did not succeed.
+Following the 2020 Pandemic, schools and workplaces transitioned to a fully digital setting, relying 100% on technology to recreate workplace and classroom environments. Modern society has become increasingly dependent on technology for communication and productivity. Being tasked with sacrificing some of these components would be a major challenge. No, I did not succeed.
 
-For this assignment, I chose Option A: 1992. I figured this would be a more realistic option which would challenge me to limit screentime and digital technology while still allowing me to go about my day “normally.” Before diving into 1992, I thought about what the toughest challenges would be without access to texting, web browsing, and using my phone for anything other than calling. Video games and streaming services would be an easy sacrifice for just a day, as I’ve already gone days without either in the past weeks, but my phone has become such an integral part of my life that going without it became a huge struggle.
+For this assignment, I chose to work with the technologies of 1992. I figured this would be a more realistic option which would challenge me to limit screentime and digital technology while still allowing me to go about my day “normally.” Before diving into 1992, I thought about what the toughest challenges would be without access to texting, web browsing, and using my phone for anything other than calling. Video games and streaming services would be an easy sacrifice for just a day, as I’ve already gone days without either in the past weeks, but my phone has become such an integral part of my life that going without it became a huge struggle.
 	
 As the day went on, I started feeling stressed. All of my course information and assignments are posted online, and all of my academic resources are found digitally. Of course, there are alternatives. Physical textbooks can be purchased, and documents can be printed, but I hadn’t purchased physical textbooks and many of my courses online resources aren’t designed to be done in a physical environment. Some assignments could’ve been printed out ahead of time, but of course, I didn’t do that. The lack of modern technology prevented me from checking assignments, due dates, course information, and any separate online resources. Given all of these inconveniences, it was definitely easier to take a day off from school assignments, but not having access to my classes was fairly stressful. Even two years removed from the initial impact from the Covid-19 Pandemic, our education still tends to rely heavily on digital infrastructure and not having access to it was very stress inducing given our limited alternatives.
 
