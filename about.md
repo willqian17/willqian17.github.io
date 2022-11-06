@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-A second-year mechanical engineering major who doesn't know what an engineering is.
+![3D Render.]({{ site.baseurl }}/images/mark7-2.png)
+"the bhlogue" is brought to you by a second-year mechanical engineering major who doesn't know what an engineering is.
 
-### No More Information
+### Additional Information
 
-- Gamer
-- Has a dog
-- Very honest
-- Doesn't own a dog
+- Average Blender enthusiast
+- Used to be a pretty good swimmer
+- Cereal goes in before the milk.
 
-### Please Don't Contact me
+### Contact:
 
 [qian.w@northeastern.edu](mailto:qian.w@northeastern.edu)
